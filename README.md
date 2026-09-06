@@ -9,4 +9,4 @@ after modifying a file in vscode you have to add it then commit it for it to be 
 untracked files are new files that git bro has no clue about and then modified is bro knows the file but u changed it
 staged files are files that are added but not yet commited, engaged but not married
 "git add+(file name)" to add the file and "git add ." to add all files
-git commit 
+"git commit -m (message)" to commit a file with a message
